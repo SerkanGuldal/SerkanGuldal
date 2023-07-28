@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there 👋
+Hi there, I am Serkan 👋
 </h1>
 
 
@@ -28,3 +28,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<h2 align="center">
+About me 
+</h2>
