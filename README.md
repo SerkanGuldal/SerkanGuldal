@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Güldal</h1>
-<h3 align="center">An academic programmer (don't judge my coding)</h3>
+<h3 align="center">Coding for research</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
