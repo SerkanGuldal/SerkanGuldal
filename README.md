@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Güldal</h1>
-<h3 align="center">Coding for research</h3>
+<h3 align="center">I am coding for research</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -15,8 +15,9 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanguldal&show_icons=true&locale=en" alt="serkanguldal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanguldal&" alt="serkanguldal" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanguldal&show_icons=true&locale=en" alt="serkanguldal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanguldal&" alt="serkanguldal" />
+</p>
 
 
