@@ -23,5 +23,4 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCAXhKX7XBaKcdc-mQl36mXw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-
 </div>
